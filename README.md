@@ -33,7 +33,7 @@ Organizing the projects and techniques I've been working on so far.
 
 [C#]
 - Interlocking with C++ dll
-- Marshaling
+- Marshalling
 - Create & Modify UI
 - Event Handling (Button, Mouse, Keypress, ...)
 - Save & Load User Data by Xml file
